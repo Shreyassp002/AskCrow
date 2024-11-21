@@ -2,10 +2,6 @@
 
 Google Gemini-based Bot.
 
-
-## Youtube Link: https://youtube.com/shorts/bQyymSsTWo4?feature=share
-
-
 #### Screenshots:
 
 <p float="left">
